@@ -7,6 +7,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 ## 🌱 Beginner
 
 - [Day 1:](day001) Hello, Golang
+- [Day 2:](day002) Hello, Golang... again
 
 ## 🚴‍♂️ Intermediate
 

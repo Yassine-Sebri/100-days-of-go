@@ -10,6 +10,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 2:](day002) Hello, Golang... again
 - [Day 3:](day003) Adder
 - [Day 4:](day004) Iteration
+- [Day 5:](day005) Arrays and slices
 
 ## 🚴‍♂️ Intermediate
 

@@ -11,6 +11,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 3:](day003) Adder
 - [Day 4:](day004) Iteration
 - [Day 5:](day005) Arrays and slices
+- [Day 6:](day006) Structs, methods & interfaces
 
 ## 🚴‍♂️ Intermediate
 

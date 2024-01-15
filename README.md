@@ -13,6 +13,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 5:](day005) Arrays and slices
 - [Day 6:](day006) Structs, methods & interfaces
 - [Day 7:](day007) Pointers
+- [Day 8:](day008) Errors
 
 ## 🚴‍♂️ Intermediate
 

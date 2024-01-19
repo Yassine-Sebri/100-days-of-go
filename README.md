@@ -15,6 +15,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 7:](day007) Pointers
 - [Day 8:](day008) Errors
 - [Day 9:](day009) Maps
+- [Day 10:](day010) Maps (continued)
 
 ## 🚴‍♂️ Intermediate
 

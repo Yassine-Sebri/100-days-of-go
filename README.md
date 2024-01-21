@@ -19,6 +19,8 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 
 ## 🚴‍♂️ Intermediate
 
+- [Day 11:](day011) Dependency Injection
+
 ## 🔍 Intermediate+
 
 ## 🎓 Advanced

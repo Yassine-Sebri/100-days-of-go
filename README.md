@@ -21,6 +21,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 
 - [Day 11:](day011) Dependency Injection
 - [Day 12:](day012) Mocking
+- [Day 13:](day013) Mocking (continued)
 
 ## 🔍 Intermediate+
 

@@ -23,6 +23,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 12:](day012) Mocking
 - [Day 13:](day013) Mocking (continued)
 - [Day 14:](day014) Concurrency
+- [Day 15:](day015) Select
 
 ## 🔍 Intermediate+
 

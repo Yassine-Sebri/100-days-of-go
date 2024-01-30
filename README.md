@@ -26,6 +26,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 15:](day015) Select
 - [Day 16:](day016) Sync
 - [Day 17:](day017) Context
+- [Day 18:](day018) Context (continued)
 
 ## 🔍 Intermediate+
 

@@ -28,6 +28,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 17:](day017) Context
 - [Day 18:](day018) Context (continued)
 - [Day 19:](day019) Reading files
+- [Day 20:](day020) Reading files (continued)
 
 ## 🔍 Intermediate+
 

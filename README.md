@@ -29,6 +29,7 @@ This challenge is a commitment I've made to myself to dive deep into Go programm
 - [Day 18:](day018) Context (continued)
 - [Day 19:](day019) Reading files
 - [Day 20:](day020) Reading files (continued)
+- [Day 21:](day021) Templating
 
 ## 🔍 Intermediate+
 
